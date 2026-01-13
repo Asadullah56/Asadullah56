@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asad</h1>
+<h1 align="center">Hi 👋, I'm Asadullah</h1>
 <h3 align="center">BS in Artificial Intelligence | Frontend Developer (Next.js, React, tailwind CSS, TypeScript, JavaScript) | Python Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
